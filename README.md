@@ -21,4 +21,28 @@ My work spans stock market analysis, financial analytics, and business intellige
 
 Here are some of the projects I’ve pinned — click to explore the code and demos! 👇
 
- 
+ Equity Vision – Stock Performance Dashboard-https://github.com/Manjiri100/-Equity-vision-Stock-Performance-Dashboard
+ – A Power BI dashboard visualizing stock performance with trend analysis, key indicators, and interactive visuals.
+
+MarketPulse – Stock Analysis Dashboard-https://github.com/Manjiri100/-MarketPulse-Stock-Analysis-Dashboard
+ – An insight‑driven dashboard for analysing market movements and stock behavior.
+
+StockScope – Stocks.pbix-https://github.com/Manjiri100/-StockScope-Stocks.pbix
+ – A Power BI .pbix file focusing on deep stock analytics and customizable filtering.
+
+Data Analysis Projects-https://github.com/Manjiri100/Data-Analysis-Projects
+ – A collection of data analysis exercises with Python, SQL, and visualization walkthroughs.
+
+Excel Dashboard for Sales Data-https://github.com/Manjiri100/Excel-Dashbord-for-sales-Data
+ – An interactive Excel dashboard built for analysing sales trends and performance metrics.
+
+Stock Market Analysis Project-https://github.com/Manjiri100/Stock-Market-Analysis-Project
+ – A comprehensive stock market analysis using historical data, calculations, and insights
+
+Explore all my repositories:https://github.com/Manjiri100
+
+## 📌 Pinned Projects
+
+
+
+
