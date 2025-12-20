@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**Manjiri100/Manjiri100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/962db8b3-b0f1-449c-8e56-e97d2740e2fc" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi, I’m Manjiri Hundikar
+
+I’m a Data Analyst passionate about transforming raw data into actionable insights. I specialize in Power BI, SQL, and Excel, building interactive dashboards and reports that help businesses make data-driven decisions.
+
+My work spans stock market analysis, financial analytics, and business intelligence, with hands-on experience in Python, ETL processes, and Tableau. I enjoy combining technical skills with analytical thinking to uncover trends, optimize performance, and support strategic decisions.
+
+🌟 Key Highlights
+
+📊 Created interactive dashboards for stock market performance (FTSE 100, UK market).
+
+💡 Strong SQL and Python skills for data extraction, transformation, and analysis.
+
+📈 Expertise in financial analytics, KPI tracking, and data visualization.
+
+🔗 Building end-to-end ETL pipelines and automation workflows.
+## 🚀 Featured Projects
+
+Here are some of the projects I’ve pinned — click to explore the code and demos! 👇
+
+ 
