@@ -43,6 +43,38 @@ Explore all my repositories:https://github.com/Manjiri100
 
 ## 📌 Pinned Projects
 
+## 📌 Pinned Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Manjiri100/-Equity-vision-Stock-Performance-Dashboard">
+        <img src="https://github.com/user-attachments/assets/8305da1a-02da-446e-8426-5a0bc3179207" width="200" height="200" alt="Equity Vision" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Manjiri100/-MarketPulse-Stock-Analysis-Dashboard">
+        <img src="https://github.com/user-attachments/assets/a0bcb6fc-854a-4971-ab9e-9dc44505c839" width="200" height="200" alt="MarketPulse" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Manjiri100/-StockScope-Stocks.pbix">
+        <img src="https://github.com/user-attachments/assets/c4c1a280-a50d-4c9b-a697-347f38f43e6d" width="200" height="200" alt="StockScope" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Manjiri100/Data-Analysis-Projects">
+        <img src="https://github.com/user-attachments/assets/c60a64d1-ea07-4adf-b9f7-634ec6df98b2" width="200" height="200" alt="Data Analysis Projects" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
 
