@@ -45,7 +45,16 @@ Explore all my repositories:https://github.com/Manjiri100
 
 ## 📌 Pinned Projects
 <img width="497" height="336" alt="Screenshot 2025-12-21 at 03-44-14 Delete repository entry" src="https://github.com/user-attachments/assets/44c218a2-32dc-4555-b06e-ef91aed7370e" />
-<img width="1000" height="785" alt="image" src="https://github.com/user-attachments/assets/a8615a88-dfbf-4b76-a204-58224dd55922" />
+📈Equity Vision – Stock Performance Dashboard
+<img width="1000" height="585" alt="image" src="https://github.com/user-attachments/assets/a8615a88-dfbf-4b76-a204-58224dd55922" />
+MarketPulse – Stock Analysis Dashboard
+<img width="1000" height="585" alt="image" src="https://github.com/user-attachments/assets/b5a6d3cd-c57c-42cd-826a-fbf9937155f4" />
+📈 StockScope-Stocks Dashboard
+<img width="1000" height="585" alt="image" src="https://github.com/user-attachments/assets/88064dd4-52b6-429d-923d-e35a60057f4e" />
+📈  Stock Market Analysis
+<img width="1165" height="655" alt="image" src="https://github.com/user-attachments/assets/b8ed4fcc-c9c8-4176-88f4-37e344b39021" />
+
+ 
 
 
 
