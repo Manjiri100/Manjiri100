@@ -45,6 +45,7 @@ Explore all my repositories:https://github.com/Manjiri100
 
 ## 📌 Pinned Projects
 <img width="497" height="336" alt="Screenshot 2025-12-21 at 03-44-14 Delete repository entry" src="https://github.com/user-attachments/assets/44c218a2-32dc-4555-b06e-ef91aed7370e" />
+<img width="1000" height="785" alt="image" src="https://github.com/user-attachments/assets/a8615a88-dfbf-4b76-a204-58224dd55922" />
 
 
 
