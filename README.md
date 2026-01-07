@@ -52,7 +52,7 @@ Explore all my repositories:https://github.com/Manjiri100
  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/984e29f0-3f9f-4aa6-a8ff-a11321d31e33" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1cdb0f08-74cc-44b5-bba2-b9686c0cbfa2" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/eaca3261-59ad-4c99-85ec-32dbfce0d123" />
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e324114a-ccb1-4ea0-a53a-8d2b5b44a67a" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e324114a-ccb1-4ea0-a53a-8d2b5b44a67a" />
 
 
 
