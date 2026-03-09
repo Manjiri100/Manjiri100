@@ -63,12 +63,7 @@ Explore all my repositories:https://github.com/Manjiri100
       <a href="https://github.com/Manjiri100/Excel-Dashbord-for-sales-Data">
         <img width="250" alt="Excel Sales Dashboard" src="https://github.com/user-attachments/assets/e324114a-ccb1-4ea0-a53a-8d2b5b44a67a" />
       </a><br>
-      Excel Sales Dashboard
-    </td>
-    <td align="center">
-      <a href="https://github.com/Manjiri100/Job-Search-Data-Analysis-with-Tableau">
-        <img width="250" alt="Job Search Tableau" src="https://github.com/user-attachments/assets/c1396e21-c457-46a9-911f-2ec6d604493a" />
-      </a><br>
+  
       Job Search Tableau
     </td>
     <td align="center">
