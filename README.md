@@ -61,7 +61,8 @@ Explore all my repositories:https://github.com/Manjiri100
   </tr>
   <tr>
     <td align="center">
-     
+     <img width="1536" height="1024" alt="python" src="https://github.com/user-attachments/assets/ab7dcf22-29cf-4de9-b598-c492cc264745" />
+
   
   
 
