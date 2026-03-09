@@ -64,16 +64,7 @@ Explore all my repositories:https://github.com/Manjiri100
         <img width="250" alt="Excel Sales Dashboard" src="https://github.com/user-attachments/assets/e324114a-ccb1-4ea0-a53a-8d2b5b44a67a" />
       </a><br>
   
-      Job Search Tableau
-    </td>
-    <td align="center">
-      <a href="https://github.com/Manjiri100/Bank-Marketing-Campaign-Analysis">
-        <img width="250" alt="Bank Marketing Dashboard" src="https://github.com/user-attachments/assets/eaca3261-59ad-4c99-85ec-32dbfce0d123" />
-      </a><br>
-      Bank Marketing Dashboard
-    </td>
-  </tr>
-</table>
+  
 
 
 
