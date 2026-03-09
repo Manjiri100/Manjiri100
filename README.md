@@ -61,9 +61,7 @@ Explore all my repositories:https://github.com/Manjiri100
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Manjiri100/Excel-Dashbord-for-sales-Data">
-        <img width="250" alt="Excel Sales Dashboard" src="https://github.com/user-attachments/assets/e324114a-ccb1-4ea0-a53a-8d2b5b44a67a" />
-      </a><br>
+     
   
   
 
