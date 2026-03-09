@@ -31,6 +31,7 @@ https://github.com/Manjiri100/Sales-and-KPI-Dashboard
 SQL Project – Monday Coffee Data Analysis
 https://github.com/Manjiri100/SQL-Project-Monday-Coffee-Data-Analysis
  – SQL-based business
+ 
  Python_ retail-Project-End- to End retail data analytics project using Python,including data cleaning,exploratory data analysis(EDA),customer segmentation,and churn analysis on UK retail data
 https://github.com/Manjiri100/Python-retail-analytics-project
 
