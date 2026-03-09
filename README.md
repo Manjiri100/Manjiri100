@@ -32,17 +32,6 @@ SQL Project – Monday Coffee Data Analysis
 https://github.com/Manjiri100/SQL-Project-Monday-Coffee-Data-Analysis
  – SQL-based business
 
-Excel Dashboard for Sales Data-https://github.com/Manjiri100/Excel-Dashbord-for-sales-Data
- – An interactive Excel dashboard built for analysing sales trends and performance metrics.
- 
- Job Search Data Analysis with Tableau
-https://github.com/Manjiri100/Job-Search-Data-Analysis-with-Tableau
- – A Tableau dashboard analysing job market trends, skills demand, and hiring insights using real job data.
-
-Bank Marketing Campaign Analysis(R)
-https://github.com/Manjiri100/Bank-Marketing-Campaign-Analysis
- – Analysis of a marketing campaign dataset to evaluate customer response, campaign effectiveness, and business decision-making insights.
-
 
 Explore all my repositories:https://github.com/Manjiri100
 ## My Projects Gallery
