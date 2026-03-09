@@ -20,22 +20,23 @@ My work spans stock market analysis, financial analytics, and business intellige
 ## 🚀 Featured Projects
 
 Here are some of the projects I’ve pinned — click to explore the code and demos! 👇
-Superstore Analysis(Power BI)
+Superstore Analysis(Power BI)End-to-end sales and profit analysis using retail data, focusing on KPIs, regional performance, discount impact, and business insights.
 https://github.com/Manjiri100/Superstore-Analysis
- – End-to-end sales and profit analysis using retail data, focusing on KPIs, regional performance, discount impact, and business insights.
-
+ 
 Sales and KPI Dashboard(PowerBI)
 https://github.com/Manjiri100/Sales-and-KPI-Dashboard
- – A KPI-driven dashboard showcasing sales performance, trends, and target vs actual analysis using business metrics.
+A KPI-driven dashboard showcasing sales performance, trends, and target vs actual analysis using business metrics.
 
 SQL Project – Monday Coffee Data Analysis
 https://github.com/Manjiri100/SQL-Project-Monday-Coffee-Data-Analysis
- – SQL-based business
+ SQL-based business analytics project analyzing sales patterns, customer behavior, and operational metrics.
  
- Python_ retail-Project-End- to End retail data analytics project using Python,including data cleaning,exploratory data analysis(EDA),customer segmentation,and churn analysis on UK retail data
+ Python_ retail-Project-Comprehensive retail analytics project including data cleaning, exploratory data analysis (EDA), customer segmentation, and churn analysis on UK retail data.
 https://github.com/Manjiri100/Python-retail-analytics-project
 
 Explore all my repositories:https://github.com/Manjiri100
+Through these projects, I aim to turn complex datasets into actionable insights that drive business growth and efficiency
+
 ## My Projects Gallery
 
 <table align="center">
