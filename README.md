@@ -18,53 +18,56 @@ My work spans stock market analysis, financial analytics, and business intellige
 
 🔗 Building end-to-end ETL pipelines and automation workflows.
 ## 🚀 Featured Projects
-
-Here are some of the projects I’ve pinned — click to explore the code and demos! 👇
-Superstore Analysis(Power BI)End-to-end sales and profit analysis using retail data, focusing on KPIs, regional performance, discount impact, and business insights.
-https://github.com/Manjiri100/Superstore-Analysis
- 
-Sales and KPI Dashboard(PowerBI)
-https://github.com/Manjiri100/Sales-and-KPI-Dashboard
-A KPI-driven dashboard showcasing sales performance, trends, and target vs actual analysis using business metrics.
-
-SQL Project – Monday Coffee Data Analysis
-https://github.com/Manjiri100/SQL-Project-Monday-Coffee-Data-Analysis
- SQL-based business analytics project analyzing sales patterns, customer behavior, and operational metrics.
- 
- Python_ retail-Project-Comprehensive retail analytics project including data cleaning, exploratory data analysis (EDA), customer segmentation, and churn analysis on UK retail data.
-https://github.com/Manjiri100/Python-retail-analytics-project
-
-Explore all my repositories:https://github.com/Manjiri100
-Through these projects, I aim to turn complex datasets into actionable insights that drive business growth and efficiency
-
 ## My Projects Gallery
+
+Click on the projects to explore the code and demos! 👇
 
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/Manjiri100/Superstore-Analysis">
-        <img width="250" alt="Superstore Dashboard" src="https://github.com/user-attachments/assets/a7f1f7c8-d9f4-414b-b21b-f497b9b008f5" />
+      <a href="https://github.com/Manjiri100/Banking_Transaction_Analytics_with_Fraud_Detection">
+        <img width="250" alt="Banking Analytics Dashboard" src="https://github.com/user-attachments/assets/banking-fraud.png" />
       </a><br>
-      Superstore Analysis
+      Banking Analytics with Fraud Detection
+    </td>
+    <td align="center">
+      <a href="https://github.com/Manjiri100/Loan-Risk-Analysis-Identify-High-Risk-Loans-Using-Python">
+        <img width="250" alt="Loan Risk Analysis" src="https://github.com/user-attachments/assets/loan-risk.png" />
+      </a><br>
+      Loan Risk Analysis
     </td>
     <td align="center">
       <a href="https://github.com/Manjiri100/Sales-and-KPI-Dashboard">
-        <img width="250" alt="Sales KPI Dashboard" src="https://github.com/user-attachments/assets/2d62786e-8d3b-4bf9-91d7-e1b929dc6a52" />
+        <img width="250" alt="Sales KPI Dashboard" src="https://github.com/user-attachments/assets/sales-kpi.png" />
       </a><br>
-      Sales KPI Dashboard
-    </td>
-    <td align="center">
-      <a href="https://github.com/Manjiri100/SQL-Project-Monday-Coffee-Data-Analysis">
-        <img width="250" alt="SQL Dashboard" src="https://github.com/user-attachments/assets/1cdb0f08-74cc-44b5-bba2-b9686c0cbfa2" />
-      </a><br>
-      SQL Dashboard
+      Sales & KPI Dashboard
     </td>
   </tr>
   <tr>
     <td align="center">
-     <img width="250" height="1024" alt="python" src="https://github.com/user-attachments/assets/ab7dcf22-29cf-4de9-b598-c492cc264745" />
+      <a href="https://github.com/Manjiri100/Python-retail-analytics-project">
+        <img width="250" alt="Python Retail Analytics" src="https://github.com/user-attachments/assets/python-retail.png" />
+      </a><br>
+      Python Retail Analytics
+    </td>
+    <td align="center">
+      <a href="https://github.com/Manjiri100/Excel-Dashbord-for-sales-Data">
+        <img width="250" alt="Excel Sales Dashboard" src="https://github.com/user-attachments/assets/excel-dashboard.png" />
+      </a><br>
+      Excel Sales Dashboard
+    </td>
+    <td align="center">
+      <a href="https://github.com/Manjiri100/Web-Scrapping">
+        <img width="250" alt="Web Scraping Project" src="https://github.com/user-attachments/assets/web-scraping.png" />
+      </a><br>
+      Web Scraping Project
+    </td>
+  </tr>
+</table>
 
-  
+Explore all my repositories: [https://github.com/Manjiri100](https://github.com/Manjiri100)
+
+Through these projects, I aim to turn complex datasets into actionable insights that drive business growth and efficiency.
   
 
 
