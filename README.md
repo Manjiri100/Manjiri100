@@ -1,70 +1,29 @@
 
 <img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/962db8b3-b0f1-449c-8e56-e97d2740e2fc" />
 
+Hi, I'm Manjiri Hundikar 👋
+Data Analyst | SQL | Python | Power BI | Business Intelligence | Financial & Customer Analytics
 
-👋 Hi, I’m Manjiri Hundikar
+I specialize in data analytics projects focused on fraud detection, customer behaviour analysis, risk analytics, and business intelligence. My work combines analytical problem-solving with business-focused insights to support data-driven decision-making.
 
-I’m a Data Analyst passionate about transforming raw data into actionable insights. I specialize in Power BI, SQL, and Excel, building interactive dashboards and reports that help businesses make data-driven decisions.
+🔧 Technical Skills
+Programming & Analytics: Python, SQL, R
+Data Visualization: Power BI, Tableau, Excel
+Libraries & Tools: Pandas, NumPy, Matplotlib, Scikit-learn
+Database & Querying: MySQL, PostgreSQL
+Core Areas: Data Cleaning, EDA, KPI Reporting, Customer Analytics, Fraud Detection, Predictive Analytics, A/B Testing
 
-My work spans stock market analysis, financial analytics, and business intelligence, with hands-on experience in Python, ETL processes, and Tableau. I enjoy combining technical skills with analytical thinking to uncover trends, optimize performance, and support strategic decisions.
-
-🌟 Key Highlights
-
-📊 Created interactive dashboards for stock market performance (FTSE 100, UK market).
-
-💡 Strong SQL and Python skills for data extraction, transformation, and analysis.
-
-📈 Expertise in financial analytics, KPI tracking, and data visualization.
-
-🔗 Building end-to-end ETL pipelines and automation workflows.
 ## 🚀 Featured Projects
-## My Projects Gallery
+### 🔐 Fraud Detection Analytics (Python + SQL)
+<img width="1536" height="1024" alt="Fraud Detection with Banking Analysis" src="https://github.com/user-attachments/assets/901deb79-3d52-4824-b034-7ba7f70e0409" />
+Built a fraud detection model to identify suspicious banking transactions using feature engineering and classification techniques.
+### 🛒 E-commerce Funnel & A/B Testing Analysis
+<img width="1536" height="1024" alt="E-commerce funnel and AB testing analysis" src="https://github.com/user-attachments/assets/0ebe6dc0-b41f-4f2e-934a-23fe8068d637" />
+Analyzed customer journey drop-offs and ran A/B testing to improve conversion rates.
+## 🌐 Connect With Me
 
-Click on the projects to explore the code and demos! 👇
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Manjiri100/Banking_Transaction_Analytics_with_Fraud_Detection">
-        <img width="250" alt="Banking Analytics Dashboard" src="https://github.com/user-attachments/assets/banking-fraud.png" />
-      </a><br>
-      Banking Analytics with Fraud Detection
-    </td>
-    <td align="center">
-      <a href="https://github.com/Manjiri100/Loan-Risk-Analysis-Identify-High-Risk-Loans-Using-Python">
-        <img width="250" alt="Loan Risk Analysis" src="https://github.com/user-attachments/assets/loan-risk.png" />
-      </a><br>
-      Loan Risk Analysis
-    </td>
-    <td align="center">
-      <a href="https://github.com/Manjiri100/Sales-and-KPI-Dashboard">
-        <img width="250" alt="Sales KPI Dashboard" src="https://github.com/user-attachments/assets/sales-kpi.png" />
-      </a><br>
-      Sales & KPI Dashboard
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Manjiri100/Python-retail-analytics-project">
-        <img width="250" alt="Python Retail Analytics" src="https://github.com/user-attachments/assets/python-retail.png" />
-      </a><br>
-      Python Retail Analytics
-    </td>
-    <td align="center">
-      <a href="https://github.com/Manjiri100/Excel-Dashbord-for-sales-Data">
-        <img width="250" alt="Excel Sales Dashboard" src="https://github.com/user-attachments/assets/excel-dashboard.png" />
-      </a><br>
-      Excel Sales Dashboard
-    </td>
-    <td align="center">
-      <a href="https://github.com/Manjiri100/Web-Scrapping">
-        <img width="250" alt="Web Scraping Project" src="https://github.com/user-attachments/assets/web-scraping.png" />
-      </a><br>
-      Web Scraping Project
-    </td>
-  </tr>
-</table>
-
+- GitHub: https://github.com/Manjiri100  
+- LinkedIn: https://www.linkedin.com/in/manjiri-hundikar-8857ab386/
 Explore all my repositories: [https://github.com/Manjiri100](https://github.com/Manjiri100)
 
 Through these projects, I aim to turn complex datasets into actionable insights that drive business growth and efficiency.
