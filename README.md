@@ -16,10 +16,9 @@ Core Areas: Data Cleaning, EDA, KPI Reporting, Customer Analytics, Fraud Detecti
 ## 🚀 Featured Projects
 ### 🔐 Fraud Detection Analytics (Python + SQL)
 <img width="1536" height="1024" alt="Fraud Detection with Banking Analysis" src="https://github.com/user-attachments/assets/901deb79-3d52-4824-b034-7ba7f70e0409" />
-Built a fraud detection model to identify suspicious banking transactions using feature engineering and classification techniques.
+Built an end-to-end fraud detection system to identify suspicious banking transactions using feature engineering, anomaly detection, and exploratory data analysis.
 
 Key Highlights:
-
 Fraud detection using statistical anomaly detection methods
 Customer behaviour and transaction pattern analysis
 Branch-level performance evaluation
@@ -29,18 +28,10 @@ Data-driven insights for risk management
 <img width="1536" height="1024" alt="E-commerce funnel and AB testing analysis" src="https://github.com/user-attachments/assets/0ebe6dc0-b41f-4f2e-934a-23fe8068d637" />
 Analyzed customer journey drop-offs and conducted A/B testing to evaluate conversion performance and improve user engagement.
 Key Highlights:
-
 Funnel analysis to identify conversion drop-offs
 A/B testing to compare performance between variants
 Customer behaviour analysis
 Data-driven recommendations to improve conversion rates
-
-Key Highlights
-Funnel conversion analysis
-Customer behaviour analysis
-A/B testing and statistical comparison
-Data-driven optimization recommendations
-
 🔗 Repository: https://github.com/Manjiri100/ecommerce-funnel-ab-testing-analysis
 ## 🌐 Connect With Me
 
@@ -48,7 +39,8 @@ Data-driven optimization recommendations
 - LinkedIn: https://www.linkedin.com/in/manjiri-hundikar-8857ab386/
 Explore all my repositories: [https://github.com/Manjiri100](https://github.com/Manjiri100)
 
-Through these projects, I aim to turn complex datasets into actionable insights that drive business growth and efficiency.
+ Goal
+Transforming complex datasets into actionable insights that drive business growth, efficiency, and data-driven decision-making.
   
 
 
